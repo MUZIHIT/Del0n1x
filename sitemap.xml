@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.bilibili.com/2023/05/31/README/</loc>
+    <loc>https://muzihit.github.io/Del0n1x/2023/05/31/How%20to%20ask/</loc>
     
     <lastmod>2023-05-30</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>http://www.bilibili.com/about/index-1.html</loc>
+    <loc>https://muzihit.github.io/Del0n1x/2023/05/31/README/</loc>
     
     <lastmod>2023-05-30</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>http://www.bilibili.com/tags/index.html</loc>
+    <loc>https://muzihit.github.io/Del0n1x/about/index-1.html</loc>
     
     <lastmod>2023-05-30</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>http://www.bilibili.com/repository/index-1.html</loc>
+    <loc>https://muzihit.github.io/Del0n1x/tags/index.html</loc>
     
     <lastmod>2023-05-30</lastmod>
     
@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>http://www.bilibili.com/links/index.html</loc>
+    <loc>https://muzihit.github.io/Del0n1x/repository/index-1.html</loc>
     
     <lastmod>2023-05-30</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://www.bilibili.com/categories/index.html</loc>
+    <loc>https://muzihit.github.io/Del0n1x/links/index.html</loc>
     
     <lastmod>2023-05-30</lastmod>
     
@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>http://www.bilibili.com/about/index.html</loc>
+    <loc>https://muzihit.github.io/Del0n1x/categories/index.html</loc>
     
     <lastmod>2023-05-30</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>http://www.bilibili.com/404/index.html</loc>
+    <loc>https://muzihit.github.io/Del0n1x/about/index.html</loc>
     
     <lastmod>2023-05-30</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>http://www.bilibili.com/data/index.html</loc>
+    <loc>https://muzihit.github.io/Del0n1x/404/index.html</loc>
     
     <lastmod>2023-05-30</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>http://www.bilibili.com/books/index.html</loc>
+    <loc>https://muzihit.github.io/Del0n1x/data/index.html</loc>
     
     <lastmod>2023-05-30</lastmod>
     
@@ -92,7 +92,7 @@
   </url>
   
   <url>
-    <loc>http://www.bilibili.com/repository/index.html</loc>
+    <loc>https://muzihit.github.io/Del0n1x/books/index.html</loc>
     
     <lastmod>2023-05-30</lastmod>
     
@@ -101,7 +101,16 @@
   </url>
   
   <url>
-    <loc>http://www.bilibili.com/2023/05/30/hello-world/</loc>
+    <loc>https://muzihit.github.io/Del0n1x/repository/index.html</loc>
+    
+    <lastmod>2023-05-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://muzihit.github.io/Del0n1x/2023/05/30/hello-world/</loc>
     
     <lastmod>2023-05-30</lastmod>
     
@@ -111,7 +120,7 @@
   
 
   <url>
-    <loc>http://www.bilibili.com/</loc>
+    <loc>https://muzihit.github.io/Del0n1x</loc>
     <lastmod>2023-05-30</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
